@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひめくりモザイク",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-01-04T13:06:49.849816Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひめくりモザイク",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_ひめくりモザイク_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
